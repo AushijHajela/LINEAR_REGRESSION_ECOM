@@ -9,7 +9,7 @@ Avg. Session Length	Average session duration on the website (minutes)
 Time on App	Time spent on mobile app (minutes)
 Time on Website	Time spent on website (minutes)
 Length of Membership	How long the user has been a customer (years)
-Yearly Amount Spent	💰 Target variable — total yearly spending by the customer
+Yearly Amount Spent	 Target variable — total yearly spending by the customer
 
 ***Dropped Columns***
 These were excluded due to no predictive value:
